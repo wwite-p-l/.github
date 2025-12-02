@@ -1,8 +1,5 @@
 ## wwite pty Ltd 
 ## website https://cumesh.au
 # CuMesh
-CuMesh is an advanced web native engine for dynamic operational management and data integrity, governance and security.
-Online systems and software design needs have evolved beyond yesterday’s IT technology and data transaction component designs.
-CuMesh design addresses large scale operational systems and how they can be evolved into secure operations and intelligence platforms. CuMesh enables the journey from yesterday's siloed data architecture into tomorrow’s IT, real time information infrastructure and decision based world - quickly, visibly and economically
-CuMesh solves the complexities, costs, time and risks of large scale operational, transactional back-office IT systems and their transformation.
+CuMesh is an advanced web native engine for dynamic operational management and data integrity, governance and security. Online systems and software design needs have evolved beyond yesterday’s IT technology and data transaction component designs. CuMesh design addresses large scale operational systems and how they can be evolved into secure operations and intelligence platforms. CuMesh enables the journey from yesterday's siloed data architecture into tomorrow’s IT, real time information infrastructure and decision based world - quickly, visibly and economically. CuMesh solves the complexities, costs, time and risks of large scale operational, transactional back-office IT systems and their transformation.
 

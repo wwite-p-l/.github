@@ -9,3 +9,6 @@ CuMesh delivers a common data environment for dynamic management of infrastructu
 
 # Breakthrough technology:
 CuMesh is a globally advanced meshed, multi node, multi chain, elastic block size digital asset trusted credential system
+
+# CuMesh Architecture
+ CuMesh Architecture comprises highly integrated information functions that enable it to operate as a cloud service or as an internet cell with IoT.

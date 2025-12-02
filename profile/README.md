@@ -1,11 +1,23 @@
 ## wwite pty Ltd 
 ## website https://cumesh.au
 # About CuMesh
-CuMesh is an advanced web native engine for dynamic operational management and data integrity, governance and security
+CuMesh is an advanced web native engine for dynamic operational management and data integrity, governance and security.
+
+Online systems and software design needs have evolved beyond yesterday’s IT technology and data transaction component designs.
+
+CuMesh design addresses large scale operational systems and how they can be evolved into secure operations and intelligence platforms. CuMesh enables the journey from yesterday's siloed data architecture into tomorrow’s IT, real time information infrastructure and decision based world - quickly, visibly and economically
+
+CuMesh solves the complexities, costs, time and risks of large scale operational, transactional back-office IT systems and their transformation.
+
+## CuMesh:
+CuMesh is designed to address legacy system transformation and greatly reduce the costs and risks of the transformation process. We do this by providing an out-of-the-box Proof-of-Concept platform that can converge legacy and future online user and application requirements.
+
+renews internet access and infrastructure systems with a self-governed, trusted nodal 'smart fully functional' web - IoT application engine meeting the challenge of limited, fragmented and insecure internet technologies, and can deliver shared, collaborative, national infrastructures.
+
+takes on board accessibility, privacy, cyber security, PKI and formalised roles (digital trust), systems management, digital asset management and multi party governance systems.
+
 # An operations and intelligence centre
 Dynamic real time capture of data, enabling critical management of complex sites and missions
-
-CuMesh delivers a common data environment for dynamic management of infrastructure, assets, IoT applications establishing the data framework for compliance and reporting requirements and enabling dynamic real-time management of complex site and mission operations and information
 
 # Breakthrough technology:
 CuMesh is a globally advanced meshed, multi node, multi chain, elastic block size digital asset trusted credential system
